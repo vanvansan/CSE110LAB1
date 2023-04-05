@@ -14,7 +14,8 @@ I come from Guangzhou, China, where is a hot city in southern China. My career i
 More memes on [emojicombos](https://emojicombos.com/).
 
 ## Cat time
-![cat](/index/cat.jpeg)
+![cat](https://cdn.discordapp.com/attachments/1026579413309063171/1093270769678696499/9821E22C-A979-4665-94C3-275CB87968DD_1_105_c.jpeg)
+[original](/index/cat.jpeg)
 
 > The following are some tips that I recently found useful for my life lol. 
 
