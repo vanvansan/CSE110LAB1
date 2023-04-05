@@ -61,7 +61,7 @@ to cat time [cat time](https://github.com/vanvansan/CSE110LAB1/blob/by-vsc-ui/in
 More memes on [emojicombos](https://emojicombos.com/).
 
 ## Cat time
-![cat](/index/cat.jpeg)
+![cat](https://github.com/vanvansan/CSE110LAB1/blob/by-vsc-ui/index/cat.jpeg)
 
 
 ## Tips for Better Sleep
